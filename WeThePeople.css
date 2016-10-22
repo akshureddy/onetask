@@ -1,0 +1,43 @@
+#header{
+	background-color: #00994d;
+	min-height: 200px;
+}
+h1{
+	padding: 15px;
+	color: #fff;
+}
+h3{
+	color: #00ffff;
+	text-align: right;
+	font-style: italic;
+	padding: 75px;
+}
+#container{
+	max-width: 200px;
+	
+	border: 3px solid;
+}
+ul {
+		list-style-type: none;
+		margin: 0;
+	    padding: 0;
+	    background-color: #ff6600;
+}
+li a {					
+	display: block;
+	line-height: 30px;
+	color: #000;
+	
+}
+li a:hover {
+	background-color: #555;
+	color: white;
+}
+h2{
+	text-align: 15px;
+	color: #993300;
+	
+}
+#nav{
+	float: left;
+}
