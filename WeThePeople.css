@@ -79,8 +79,6 @@ nav {
 	display: inline-flex;
 	list-style-type: none;
 	padding: 5px;
-
-
 }
 .matter::first-letter {
 	font-size: xx-large;
