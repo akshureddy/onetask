@@ -94,9 +94,9 @@ a{
 	color: #f0f;
 	font-weight: bold;
 }
-span{
-	color: #93f;
-}
 ul.work {
 	list-style-type: disc;
+}
+span{
+	color: #93f;
 }
